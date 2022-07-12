@@ -17,7 +17,7 @@ const disHome = () => {
     </h2>
     <div className="navigation">
       <a href="#">Home</a>
-      <a href="#">About</a>
+      <a href="https://www.thesparksfoundationsingapore.org/">About</a>
       <a href="#">Info</a>
       <a href="#">Services</a>
       <a href="#">Contact</a>
